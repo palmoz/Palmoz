@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **palmoz/Palmoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 IM a very social person
 - 📫 Im currently a student at Mid Sweden Unniversity
 - ⚡ Fun fact: I like to play golf on my spare time ;)
--->
