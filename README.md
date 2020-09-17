@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**palmoz/Palmoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emil and this is my first Github and im new here :D
 
 
 
